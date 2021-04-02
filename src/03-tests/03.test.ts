@@ -1,5 +1,5 @@
 import {StudentType} from "../02-tests/02";
-import {addSkill, DoesStudentLiveInaCity, makeStudentActive} from "./03-03";
+import {addSkill, DoesStudentLiveInaCity, makeStudentActive} from "./03";
 
 let student: StudentType;
 beforeEach(() => {
