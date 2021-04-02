@@ -1,10 +1,10 @@
-type CityType = {
+export type LocalCityType = {
     title: string
     country: string
 }
 type AddressType = {
     streetTitle: string
-    city: CityType
+    city: LocalCityType
 }
 type TechnologiesType = {
     id: number
