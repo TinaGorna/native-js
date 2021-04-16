@@ -41,5 +41,5 @@ test ('splitting into words should be correct', () => {
     const result2 = splitIntoWords(sent2);
 
     expect(result.length).toBe(3);
-    expect(result2[0]).toBe('good');
+    expect(result2[0]).toBe('JS');
 })
