@@ -1,3 +1,4 @@
+import {courses} from "./04";
 
 test ('should take older than 90', () => {
     const ages = [18, 20, 22, 1, 100, 90, 14];
