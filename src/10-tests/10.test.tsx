@@ -176,7 +176,7 @@ test("update company", () => {
 })
 test("update company state", () => {
 
-    let companies = {
+    let  companies = {
         "Dimych": [{id: 1, title: "Епам"}, {id: 2, title: "IT-Incubator"}],
         "Artem": [{id: 2, title: "IT-Incubator"}]
     }
